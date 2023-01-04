@@ -1,0 +1,15 @@
+MaterialCount: 2
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.266667 0.099623 0.080812
+Specular: 0.299138 0.299138 0.299138
+Power: 2.000000
+DiffuseMapName: None
+SpecularMapName: None
+NormalMapName: None
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.669600 0.241846 0.210924
+Specular: 0.487175 0.487175 0.487175
+Power: 3.675214
+DiffuseMapName: None
+SpecularMapName: None
+NormalMapName: None

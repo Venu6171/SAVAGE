@@ -1,0 +1,36 @@
+{
+  "Components": {
+    "TransformComponent": {
+      "Position": [ 0, 0, 0 ],
+      "Rotation": [ 1, 0, 0, 0 ],
+      "Scale": [ 1, 1, 1 ]
+    },
+    "ColliderComponent": {
+      "Center": [ 0, 1, 0 ],
+      "Extend": [ 0.5, 1, 0.5 ]
+    },
+    "ModelComponent": {
+      "FileName": "../../Assets/Models/Paladin/Paladin",
+      "ModelName": "Paladin",
+      "Animations": [
+        "../../Assets/Models/Paladin_Anim/Paladin_Idle",
+        "../../Assets/Models/Paladin_Anim/Paladin_WalkForward",
+        "../../Assets/Models/Paladin_Anim/Paladin_WalkLeft",
+        "../../Assets/Models/Paladin_Anim/Paladin_WalkRight",
+        "../../Assets/Models/Paladin_Anim/Paladin_WalkBack",
+        "../../Assets/Models/Paladin_Anim/Paladin_RunForward",
+        "../../Assets/Models/Paladin_Anim/Paladin_RunLeft",
+        "../../Assets/Models/Paladin_Anim/Paladin_RunRight",
+        "../../Assets/Models/Paladin_Anim/Paladin_RunBack",
+        "../../Assets/Models/Paladin_Anim/Paladin_Attack"
+      ]
+    },
+    "AnimatorComponent": {
+    },
+    "ControllerComponent": {
+    },
+    "HealthComponent": {
+      "Health": 100
+    }
+  }
+}

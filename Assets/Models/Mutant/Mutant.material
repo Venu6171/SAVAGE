@@ -1,0 +1,8 @@
+MaterialCount: 1
+Ambient: 0.200000 0.200000 0.200000
+Diffuse: 1.000000 1.000000 1.000000
+Specular: 0.200000 0.200000 0.200000
+Power: 6.153846
+DiffuseMapName: Mutant_Idle_Diffuse.png
+SpecularMapName: None
+NormalMapName: Mutant_Idle_Normal.png

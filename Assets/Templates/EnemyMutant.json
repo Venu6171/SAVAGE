@@ -1,0 +1,30 @@
+{
+  "Components": {
+    "TransformComponent": {
+      "Position": [ 0, 0, -20 ],
+      "Rotation": [ 1, 0, 0, 0 ],
+      "Scale": [ 1, 1, 1 ]
+    },
+    "ColliderComponent": {
+      "Center": [ 0, 1, 0 ],
+      "Extend": [ 0.8, 1, 0.8 ]
+    },
+    "ModelComponent": {
+      "FileName": "../../Assets/Models/Mutant/Mutant",
+      "ModelName": "Mutant",
+      "Animations": [
+        "../../Assets/Models/Mutant_Anim/Mutant_Idle",
+        "../../Assets/Models/Mutant_Anim/Mutant_Walk",
+        "../../Assets/Models/Mutant_Anim/Mutant_Run",
+        "../../Assets/Models/Mutant_Anim/Mutant_Attack"
+      ]
+    },
+    "AnimatorComponent": {
+    },
+    "EnemyComponent": {
+    },
+    "HealthComponent": {
+      "Health": 70
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Components": {
+    "TransformComponent": {
+      "Position": [ 10.9, 0, 14.5 ],
+      "Rotation": [ 1, 0, 0, 0 ],
+      "Scale": [ 1, 1, 1 ]
+    },
+    "ColliderComponent": {
+      "Center": [ 0, 1, 0 ],
+      "Extend": [ 0.8, 1, 0.8 ]
+    },
+    "ModelComponent": {
+      "FileName": "../../Assets/Models/PumpkinHulk/PumpkinHulk",
+      "ModelName": "PumpkinHulk",
+      "Animations": [
+        "../../Assets/Models/PumpkinHulk_Anim/PumpkinHulk_Idle",
+        "../../Assets/Models/PumpkinHulk_Anim/PumpkinHulk_Walk",
+        "../../Assets/Models/PumpkinHulk_Anim/PumpkinHulk_Run",
+        "../../Assets/Models/PumpkinHulk_Anim/PumpkinHulk_Attack"
+      ]
+    },
+    "AnimatorComponent": {
+    },
+    "EnemyComponent": {
+    },
+    "HealthComponent": {
+      "Health": 70
+    }
+  }
+}

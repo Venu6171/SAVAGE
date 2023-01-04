@@ -1,0 +1,13 @@
+
+// Final Project
+//================
+// You need to add a new project called VGP242_Final under VGP242
+// Create a solar system scene using textured mapped spheres
+// - Add this to your MeshBuilder:
+//	static MeshPX CreateSpherePX(uint32_t rings, uint32_t slices, float radius);
+// - This is basically the same as cylinder but each ring as a different radius
+// - The radius should be using sin(*something with y here*)
+// - You also need to make sure you have the planets spinning locally and revolving around the sun
+// - This is based on your world matrix rotation and translation order
+// - Finally add CreateSkybox() which is essentially a cube but with reversed indices order
+// - This is so you can texture map the inside of the box, as a skybox, it will have a very large size

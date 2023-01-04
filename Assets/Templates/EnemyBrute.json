@@ -1,0 +1,30 @@
+{
+  "Components": {
+    "TransformComponent": {
+      "Position": [ 29.9, 0, -14.5 ],
+      "Rotation": [ 1, 0, 0, 0 ],
+      "Scale": [ 1, 1, 1 ]
+    },
+    "ColliderComponent": {
+      "Center": [ 0, 1, 0 ],
+      "Extend": [ 0.8, 1, 0.8 ]
+    },
+    "ModelComponent": {
+      "FileName": "../../Assets/Models/Brute/Brute",
+      "ModelName": "Brute",
+      "Animations": [
+        "../../Assets/Models/Brute_Anim/Brute_Idle",
+        "../../Assets/Models/Brute_Anim/Brute_Walk",
+        "../../Assets/Models/Brute_Anim/Brute_Run",
+        "../../Assets/Models/Brute_Anim/Brute_Attack"
+      ]
+    },
+    "AnimatorComponent": {
+    },
+    "EnemyComponent": {
+    },
+    "HealthComponent": {
+      "Health": 70
+    }
+  }
+}

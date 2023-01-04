@@ -1,0 +1,64 @@
+MaterialCount: 9
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.800000 0.800000 0.800000
+Specular: 0.500000 0.500000 0.500000
+Power: 2.152480
+DiffuseMapName: Brute_Idle_Diffuse_0.png
+SpecularMapName: None
+NormalMapName: Brute_Idle_Normal_0.png
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.800000 0.800000 0.800000
+Specular: 0.500000 0.500000 0.500000
+Power: 58.119659
+DiffuseMapName: Brute_Idle_Diffuse_1.png
+SpecularMapName: None
+NormalMapName: None
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.800000 0.800000 0.800000
+Specular: 0.500000 0.500000 0.500000
+Power: 2.060000
+DiffuseMapName: Brute_Idle_Diffuse_2.png
+SpecularMapName: None
+NormalMapName: Brute_Idle_Normal_2.png
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.800000 0.800000 0.800000
+Specular: 0.500000 0.500000 0.500000
+Power: 2.060000
+DiffuseMapName: Brute_Idle_Diffuse_3.png
+SpecularMapName: None
+NormalMapName: Brute_Idle_Normal_3.png
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.800000 0.800000 0.800000
+Specular: 0.500000 0.500000 0.500000
+Power: 46.393162
+DiffuseMapName: Brute_Idle_Diffuse_4.png
+SpecularMapName: None
+NormalMapName: None
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.800000 0.800000 0.800000
+Specular: 1.000000 1.000000 1.000000
+Power: 50.601627
+DiffuseMapName: Brute_Idle_Diffuse_5.png
+SpecularMapName: None
+NormalMapName: Brute_Idle_Normal_5.png
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.800000 0.800000 0.800000
+Specular: 0.153841 0.153841 0.153841
+Power: 6.311791
+DiffuseMapName: Brute_Idle_Diffuse_6.png
+SpecularMapName: None
+NormalMapName: None
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.800000 0.800000 0.800000
+Specular: 0.153841 0.153841 0.153841
+Power: 6.311791
+DiffuseMapName: Brute_Idle_Diffuse_7.png
+SpecularMapName: None
+NormalMapName: Brute_Idle_Normal_7.png
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.180447 0.180447 0.180447
+Specular: 0.203006 0.203006 0.203006
+Power: 2.000000
+DiffuseMapName: None
+SpecularMapName: None
+NormalMapName: None

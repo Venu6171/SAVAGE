@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Inc">
+      <UniqueIdentifier>{73dac264-fbbd-4be9-8c22-f3765623e60c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{fa20aaca-5d33-40c3-8408-5857f2a1ee68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inc\Datasets">
+      <UniqueIdentifier>{38feb355-49ff-4f46-9868-109f3b94a595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\Datasets">
+      <UniqueIdentifier>{87c0a18b-0ac4-4837-ae63-8dca31493890}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inc\LinearModel">
+      <UniqueIdentifier>{525c30e4-f32d-4a05-a572-b35b0c748b71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\LinearModel">
+      <UniqueIdentifier>{68b85676-b664-4ed8-89f1-6fe21b2e09b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inc\Cluster">
+      <UniqueIdentifier>{b68938c7-bc06-43c8-9573-34a44f694cbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\Cluster">
+      <UniqueIdentifier>{5dab8e17-b620-463a-b420-fdfbf0b2605a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inc\ArtificialNeuralNetwork">
+      <UniqueIdentifier>{0a49d98c-7cd4-4e0a-80f7-c4aff895f669}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\ArtificialNeuralNetwork">
+      <UniqueIdentifier>{0c2e9314-a9e8-4ea1-8e6f-c5a859a2196b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inc\GeneticAlgorithms">
+      <UniqueIdentifier>{25d15eab-031a-4375-890f-87b0d684d616}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\GeneticAlgorithms">
+      <UniqueIdentifier>{d944f6b9-b509-49c9-a4b9-547fc5454cf5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Inc\Common.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\ML.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Precompiled.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\Datasets.h">
+      <Filter>Inc\Datasets</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\LinearRegression.h">
+      <Filter>Inc\LinearModel</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\LogisticRegression.h">
+      <Filter>Inc\LinearModel</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\KMeans.h">
+      <Filter>Inc\Cluster</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\NeuralNetwork.h">
+      <Filter>Inc\ArtificialNeuralNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\GeneticAlgorithm.h">
+      <Filter>Inc\GeneticAlgorithms</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\Precompiled.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Datasets.cpp">
+      <Filter>Src\Datasets</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\LinearRegression.cpp">
+      <Filter>Src\LinearModel</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\LogisticRegression.cpp">
+      <Filter>Src\LinearModel</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KMeans.cpp">
+      <Filter>Src\Cluster</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\NeuralNetwork.cpp">
+      <Filter>Src\ArtificialNeuralNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GeneticAlgorithm.cpp">
+      <Filter>Src\GeneticAlgorithms</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

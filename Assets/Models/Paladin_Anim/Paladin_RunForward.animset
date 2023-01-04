@@ -1,0 +1,2074 @@
+BoneAnimationCount: 72
+Name: mixamo.com
+Duration: 17.000000
+TicksPerSecond: 24.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.011665 -0.108356 -0.126700
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.996296 0.076644 0.038999 0.000309
+RotationKeyTime: 0.000000
+RotationKey: 0.982788 0.182263 0.029041 0.008022
+RotationKeyTime: 1.000000
+RotationKey: 0.996229 0.078008 0.013042 0.035665
+RotationKeyTime: 2.000000
+RotationKey: 0.995664 -0.078139 0.033227 0.037980
+RotationKeyTime: 3.000000
+RotationKey: 0.998707 -0.047412 0.016746 0.007471
+RotationKeyTime: 4.000000
+RotationKey: 0.997662 0.064097 0.023039 0.005665
+RotationKeyTime: 5.000000
+RotationKey: 0.990992 0.096618 0.073413 0.056663
+RotationKeyTime: 6.000000
+RotationKey: 0.993938 0.088603 0.034336 0.055306
+RotationKeyTime: 7.000000
+RotationKey: 0.997404 0.039252 -0.034211 0.049738
+RotationKeyTime: 8.000000
+RotationKey: 0.996827 0.024143 -0.052336 0.054900
+RotationKeyTime: 9.000000
+RotationKey: 0.997075 0.038152 -0.052752 0.040028
+RotationKeyTime: 10.000000
+RotationKey: 0.997545 0.047547 -0.039100 0.033370
+RotationKeyTime: 11.000000
+RotationKey: 0.999050 0.028916 -0.024925 0.020993
+RotationKeyTime: 12.000000
+RotationKey: 0.999875 -0.003975 0.012348 -0.009029
+RotationKeyTime: 13.000000
+RotationKey: 0.999535 -0.003873 0.030237 0.000062
+RotationKeyTime: 14.000000
+RotationKey: 0.999374 -0.018097 0.030049 -0.004558
+RotationKeyTime: 15.000000
+RotationKey: 0.999485 -0.010895 0.030189 0.000174
+RotationKeyTime: 16.000000
+RotationKey: 0.996296 0.076644 0.038999 0.000309
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.002313 -0.368584 0.032116
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.956466 0.290233 0.001679 0.030580
+RotationKeyTime: 0.000000
+RotationKey: 0.988492 0.144389 0.001659 0.045084
+RotationKeyTime: 1.000000
+RotationKey: 0.992244 -0.088857 0.000655 0.086928
+RotationKeyTime: 2.000000
+RotationKey: 0.983939 -0.136254 0.002780 0.115284
+RotationKeyTime: 3.000000
+RotationKey: 0.974713 -0.157048 -0.005019 0.158886
+RotationKeyTime: 4.000000
+RotationKey: 0.972059 -0.230307 -0.005387 0.045058
+RotationKeyTime: 5.000000
+RotationKey: 0.987305 -0.151522 -0.000523 -0.047635
+RotationKeyTime: 6.000000
+RotationKey: 0.995644 -0.087797 -0.003412 -0.031198
+RotationKeyTime: 7.000000
+RotationKey: 0.999520 -0.012789 -0.004479 -0.027866
+RotationKeyTime: 8.000000
+RotationKey: 0.998918 0.025530 -0.003488 -0.038722
+RotationKeyTime: 9.000000
+RotationKey: 0.999220 0.024632 0.001085 -0.030856
+RotationKeyTime: 10.000000
+RotationKey: 0.999935 -0.001129 0.006100 -0.009546
+RotationKeyTime: 11.000000
+RotationKey: 0.999224 -0.038333 0.008013 0.004109
+RotationKeyTime: 12.000000
+RotationKey: 0.995668 -0.089632 0.005992 0.024001
+RotationKeyTime: 13.000000
+RotationKey: 0.999292 0.027435 0.000066 0.025751
+RotationKeyTime: 14.000000
+RotationKey: 0.973604 0.223763 -0.004289 0.044791
+RotationKeyTime: 15.000000
+RotationKey: 0.945356 0.323944 -0.005036 0.036566
+RotationKeyTime: 16.000000
+RotationKey: 0.956466 0.290233 0.001679 0.030580
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.002193 -0.416963 -0.007013
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.935510 -0.344252 -0.078819 -0.009943
+RotationKeyTime: 0.000000
+RotationKey: 0.983936 -0.123757 -0.127223 -0.019197
+RotationKeyTime: 1.000000
+RotationKey: 0.993388 0.048835 -0.101706 -0.021260
+RotationKeyTime: 2.000000
+RotationKey: 0.990083 -0.122938 -0.064096 -0.022677
+RotationKeyTime: 3.000000
+RotationKey: 0.933672 -0.346899 -0.060992 -0.064797
+RotationKeyTime: 4.000000
+RotationKey: 0.798328 -0.593420 -0.100603 0.020099
+RotationKeyTime: 5.000000
+RotationKey: 0.613104 -0.779912 -0.073597 0.102097
+RotationKeyTime: 6.000000
+RotationKey: 0.475071 -0.863366 -0.050576 0.162326
+RotationKeyTime: 7.000000
+RotationKey: 0.471402 -0.868826 -0.042963 0.145174
+RotationKeyTime: 8.000000
+RotationKey: 0.598665 -0.792102 -0.040446 0.111974
+RotationKeyTime: 9.000000
+RotationKey: 0.749636 -0.657658 -0.025952 0.069704
+RotationKeyTime: 10.000000
+RotationKey: 0.866769 -0.497297 -0.011451 0.035723
+RotationKeyTime: 11.000000
+RotationKey: 0.955796 -0.293857 0.002135 0.009851
+RotationKeyTime: 12.000000
+RotationKey: 0.997498 -0.070400 0.006366 -0.000542
+RotationKeyTime: 13.000000
+RotationKey: 0.944038 -0.326401 0.047038 0.006523
+RotationKeyTime: 14.000000
+RotationKey: 0.886064 -0.460503 0.052537 -0.008196
+RotationKeyTime: 15.000000
+RotationKey: 0.896333 -0.443300 0.006157 -0.005858
+RotationKeyTime: 16.000000
+RotationKey: 0.935510 -0.344253 -0.078819 -0.009943
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.098576 -0.058740 0.005149
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.983646 0.167290 -0.003026 -0.066675
+RotationKeyTime: 0.000000
+RotationKey: 0.992544 -0.007496 0.058617 -0.106599
+RotationKeyTime: 1.000000
+RotationKey: 0.977517 -0.128824 0.112382 -0.123432
+RotationKeyTime: 2.000000
+RotationKey: 0.981011 -0.094075 0.114811 -0.124843
+RotationKeyTime: 3.000000
+RotationKey: 0.985939 -0.076015 0.101086 -0.109217
+RotationKeyTime: 4.000000
+RotationKey: 0.991626 -0.038705 0.053887 -0.110797
+RotationKeyTime: 5.000000
+RotationKey: 0.990188 0.035848 0.031021 -0.131453
+RotationKeyTime: 6.000000
+RotationKey: 0.964462 0.207208 0.015635 -0.163196
+RotationKeyTime: 7.000000
+RotationKey: 0.889157 0.429443 0.054834 -0.148231
+RotationKeyTime: 8.000000
+RotationKey: 0.808902 0.572795 0.084478 -0.102210
+RotationKeyTime: 9.000000
+RotationKey: 0.780472 0.615769 0.084135 -0.067917
+RotationKeyTime: 10.000000
+RotationKey: 0.791026 0.605744 0.069410 -0.050348
+RotationKeyTime: 11.000000
+RotationKey: 0.838481 0.540824 0.056557 -0.035509
+RotationKeyTime: 12.000000
+RotationKey: 0.906117 0.419847 0.042512 -0.029535
+RotationKeyTime: 13.000000
+RotationKey: 0.900878 0.431132 -0.006398 -0.050036
+RotationKeyTime: 14.000000
+RotationKey: 0.920770 0.386838 -0.033177 -0.037918
+RotationKeyTime: 15.000000
+RotationKey: 0.958258 0.282445 -0.019698 -0.039724
+RotationKeyTime: 16.000000
+RotationKey: 0.983646 0.167290 -0.003026 -0.066675
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.011665 -0.108356 -0.125291
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.996970 -0.003838 -0.048180 -0.060944
+RotationKeyTime: 0.000000
+RotationKey: 0.998360 0.016498 -0.003106 -0.054728
+RotationKeyTime: 1.000000
+RotationKey: 0.997438 0.034128 0.036096 -0.051470
+RotationKeyTime: 2.000000
+RotationKey: 0.998161 0.028328 0.033242 -0.042045
+RotationKeyTime: 3.000000
+RotationKey: 0.999410 0.012252 0.014183 -0.028799
+RotationKeyTime: 4.000000
+RotationKey: 0.999840 -0.002624 -0.003500 -0.017316
+RotationKeyTime: 5.000000
+RotationKey: 0.999910 -0.002069 -0.006267 -0.011666
+RotationKeyTime: 6.000000
+RotationKey: 0.999923 -0.001210 -0.006263 -0.010647
+RotationKeyTime: 7.000000
+RotationKey: 0.999928 -0.000846 -0.006258 -0.010210
+RotationKeyTime: 8.000000
+RotationKey: 0.996043 0.087871 -0.008927 -0.009907
+RotationKeyTime: 9.000000
+RotationKey: 0.988880 0.081098 -0.102408 -0.071078
+RotationKeyTime: 10.000000
+RotationKey: 0.981877 -0.014315 -0.108321 -0.154855
+RotationKeyTime: 11.000000
+RotationKey: 0.988429 0.035033 -0.025212 -0.145412
+RotationKeyTime: 12.000000
+RotationKey: 0.993571 0.030208 0.069067 -0.084468
+RotationKeyTime: 13.000000
+RotationKey: 0.996365 0.031094 0.013923 -0.078080
+RotationKeyTime: 14.000000
+RotationKey: 0.924978 -0.184026 -0.231647 -0.238516
+RotationKeyTime: 15.000000
+RotationKey: 0.992859 -0.083062 -0.065047 -0.055680
+RotationKeyTime: 16.000000
+RotationKey: 0.996970 -0.003838 -0.048180 -0.060944
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.002200 -0.368554 0.030323
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.978969 -0.103232 0.010268 0.175663
+RotationKeyTime: 0.000000
+RotationKey: 0.976303 -0.172076 0.036138 0.126156
+RotationKeyTime: 1.000000
+RotationKey: 0.969742 -0.221245 0.042932 0.093850
+RotationKeyTime: 2.000000
+RotationKey: 0.986974 -0.150190 0.027857 0.050497
+RotationKeyTime: 3.000000
+RotationKey: 0.997742 -0.063756 0.015213 0.014684
+RotationKeyTime: 4.000000
+RotationKey: 0.999235 -0.037985 0.004994 -0.007839
+RotationKeyTime: 5.000000
+RotationKey: 0.996935 0.078035 0.004459 -0.003225
+RotationKeyTime: 6.000000
+RotationKey: 0.977928 0.208377 0.011389 -0.010267
+RotationKeyTime: 7.000000
+RotationKey: 0.962134 0.272170 0.014834 -0.001596
+RotationKeyTime: 8.000000
+RotationKey: 0.982990 0.183550 0.005862 -0.002566
+RotationKeyTime: 9.000000
+RotationKey: 0.999971 -0.004481 0.005602 0.002552
+RotationKeyTime: 10.000000
+RotationKey: 0.998520 -0.054335 0.001043 0.002077
+RotationKeyTime: 11.000000
+RotationKey: 0.998425 -0.050366 -0.001302 -0.024689
+RotationKeyTime: 12.000000
+RotationKey: 0.993870 -0.106295 -0.000532 -0.030388
+RotationKeyTime: 13.000000
+RotationKey: 0.976371 -0.215919 0.002403 -0.008565
+RotationKeyTime: 14.000000
+RotationKey: 0.981230 -0.180026 0.005669 0.068889
+RotationKeyTime: 15.000000
+RotationKey: 0.983001 -0.143578 0.014112 0.113559
+RotationKeyTime: 16.000000
+RotationKey: 0.978969 -0.103231 0.010268 0.175663
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.002321 -0.416973 -0.005909
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.575278 -0.817836 0.000471 0.014110
+RotationKeyTime: 0.000000
+RotationKey: 0.589053 -0.806223 -0.018180 0.051871
+RotationKeyTime: 1.000000
+RotationKey: 0.635001 -0.769457 -0.024842 0.063970
+RotationKeyTime: 2.000000
+RotationKey: 0.812394 -0.580470 -0.031962 0.045268
+RotationKeyTime: 3.000000
+RotationKey: 0.981213 -0.185034 -0.049603 0.022855
+RotationKeyTime: 4.000000
+RotationKey: 0.980950 -0.186929 -0.048230 0.021654
+RotationKeyTime: 5.000000
+RotationKey: 0.933520 -0.356594 -0.037022 0.003365
+RotationKeyTime: 6.000000
+RotationKey: 0.909670 -0.414216 -0.028989 0.009267
+RotationKeyTime: 7.000000
+RotationKey: 0.935507 -0.352267 0.026947 -0.002834
+RotationKeyTime: 8.000000
+RotationKey: 0.975509 -0.204008 0.082214 -0.002224
+RotationKeyTime: 9.000000
+RotationKey: 0.984407 -0.156169 0.080955 -0.000380
+RotationKeyTime: 10.000000
+RotationKey: 0.977488 -0.209038 0.024558 0.014767
+RotationKeyTime: 11.000000
+RotationKey: 0.922713 -0.384895 0.003656 0.021071
+RotationKeyTime: 12.000000
+RotationKey: 0.790292 -0.612366 0.021127 -0.000707
+RotationKeyTime: 13.000000
+RotationKey: 0.614907 -0.786739 0.040738 -0.035671
+RotationKeyTime: 14.000000
+RotationKey: 0.470895 -0.871558 0.065252 -0.119944
+RotationKeyTime: 15.000000
+RotationKey: 0.473430 -0.875882 0.042915 -0.082790
+RotationKeyTime: 16.000000
+RotationKey: 0.575278 -0.817836 0.000471 0.014110
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.097891 -0.058758 0.005837
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.878012 0.468306 -0.096626 0.021162
+RotationKeyTime: 0.000000
+RotationKey: 0.822472 0.558635 -0.106756 0.008395
+RotationKeyTime: 1.000000
+RotationKey: 0.762243 0.637812 -0.109973 0.009333
+RotationKeyTime: 2.000000
+RotationKey: 0.759071 0.645356 -0.085347 0.006543
+RotationKeyTime: 3.000000
+RotationKey: 0.861006 0.504929 -0.060382 -0.008295
+RotationKeyTime: 4.000000
+RotationKey: 0.905049 0.423004 -0.037592 -0.023265
+RotationKeyTime: 5.000000
+RotationKey: 0.911270 0.409798 -0.025393 -0.031752
+RotationKeyTime: 6.000000
+RotationKey: 0.934680 0.353392 -0.000680 -0.038563
+RotationKeyTime: 7.000000
+RotationKey: 0.966954 0.254062 -0.020003 -0.007256
+RotationKeyTime: 8.000000
+RotationKey: 0.988402 0.136350 -0.056231 0.036167
+RotationKeyTime: 9.000000
+RotationKey: 0.992437 0.073718 -0.080556 0.056074
+RotationKeyTime: 10.000000
+RotationKey: 0.996081 -0.000670 -0.075946 0.045323
+RotationKeyTime: 11.000000
+RotationKey: 0.996687 -0.048474 -0.060098 0.025578
+RotationKeyTime: 12.000000
+RotationKey: 0.997063 -0.053455 -0.049351 0.023921
+RotationKeyTime: 13.000000
+RotationKey: 0.998840 -0.001553 -0.032164 0.035795
+RotationKeyTime: 14.000000
+RotationKey: 0.989121 0.130250 -0.015853 0.066500
+RotationKeyTime: 15.000000
+RotationKey: 0.947117 0.314972 -0.024436 0.056262
+RotationKeyTime: 16.000000
+RotationKey: 0.878012 0.468306 -0.096626 0.021162
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.025415 -0.000880 0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.864611 -0.004064 -0.003338 0.502414
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.037633 -0.001302 0.002901
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.835773 0.000002 -0.000001 0.549075
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.099096 0.002886 -0.023422
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.868362 0.033140 -0.009885 0.494724
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.029967 -0.000001 0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.952063 0.000170 0.000017 0.305902
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.040002 0.000332 0.003382
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.743000 -0.000014 -0.000011 0.669292
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.097006 -0.000001 0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.824391 0.033090 -0.039337 0.563682
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.027808 -0.002280 -0.000604
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.927744 -0.000001 -0.000004 0.373217
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.040194 -0.000000 0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.826307 -0.006895 -0.002404 0.563172
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.093083 0.001460 0.022416
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.770099 0.019780 0.036704 0.636561
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.023352 0.000000 -0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.974703 -0.000000 -0.000000 0.223504
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.035625 -0.000001 0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.889346 0.000001 0.000000 0.457236
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.089853 0.002269 0.047125
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.726366 0.024528 -0.023598 0.686465
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.018427 -0.010639 -0.010639
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.972363 0.134433 0.160605 -0.103173
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.021754 -0.012559 -0.012559
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.982942 -0.066391 -0.083293 -0.149930
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.035454 -0.019109 -0.023682
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.936471 -0.157560 0.230243 0.212570
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.215900 0.003970 -0.006520
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.986437 -0.002201 -0.143496 0.079659
+RotationKeyTime: 0.000000
+RotationKey: 0.987623 -0.004550 -0.125022 0.094602
+RotationKeyTime: 1.000000
+RotationKey: 0.987651 -0.005193 -0.131083 0.085648
+RotationKeyTime: 2.000000
+RotationKey: 0.986775 -0.002473 -0.144158 0.074085
+RotationKeyTime: 3.000000
+RotationKey: 0.987832 0.000141 -0.136783 0.074019
+RotationKeyTime: 4.000000
+RotationKey: 0.991205 0.000125 -0.114364 0.066584
+RotationKeyTime: 5.000000
+RotationKey: 0.994215 -0.001232 -0.100729 0.037265
+RotationKeyTime: 6.000000
+RotationKey: 0.994368 -0.001822 -0.105691 0.007654
+RotationKeyTime: 7.000000
+RotationKey: 0.991751 -0.001769 -0.127944 0.007522
+RotationKeyTime: 8.000000
+RotationKey: 0.986681 -0.003492 -0.157703 0.039732
+RotationKeyTime: 9.000000
+RotationKey: 0.981018 -0.005382 -0.177202 0.078580
+RotationKeyTime: 10.000000
+RotationKey: 0.978601 -0.003707 -0.180211 0.099247
+RotationKeyTime: 11.000000
+RotationKey: 0.978088 -0.001577 -0.181165 0.102575
+RotationKeyTime: 12.000000
+RotationKey: 0.977347 -0.001690 -0.185436 0.101997
+RotationKeyTime: 13.000000
+RotationKey: 0.979045 -0.001413 -0.175781 0.102808
+RotationKeyTime: 14.000000
+RotationKey: 0.982685 -0.000421 -0.156044 0.099904
+RotationKeyTime: 15.000000
+RotationKey: 0.985137 -0.000901 -0.145984 0.090520
+RotationKeyTime: 16.000000
+RotationKey: 0.986437 -0.002201 -0.143496 0.079659
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.255579 -0.003973 0.008271
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.764182 0.088635 -0.636271 0.057694
+RotationKeyTime: 0.000000
+RotationKey: 0.801908 0.131098 -0.577289 0.080587
+RotationKeyTime: 1.000000
+RotationKey: 0.832517 0.182425 -0.510641 0.113506
+RotationKeyTime: 2.000000
+RotationKey: 0.843204 0.211920 -0.477060 0.128491
+RotationKeyTime: 3.000000
+RotationKey: 0.839808 0.203414 -0.489003 0.119254
+RotationKeyTime: 4.000000
+RotationKey: 0.833789 0.174150 -0.515165 0.095250
+RotationKeyTime: 5.000000
+RotationKey: 0.832596 0.142429 -0.530489 0.071272
+RotationKeyTime: 6.000000
+RotationKey: 0.838237 0.114447 -0.530502 0.053171
+RotationKeyTime: 7.000000
+RotationKey: 0.851138 0.095054 -0.514687 0.040323
+RotationKeyTime: 8.000000
+RotationKey: 0.865342 0.090993 -0.491622 0.034803
+RotationKeyTime: 9.000000
+RotationKey: 0.867563 0.103012 -0.484956 0.039239
+RotationKeyTime: 10.000000
+RotationKey: 0.853044 0.120601 -0.505002 0.052388
+RotationKeyTime: 11.000000
+RotationKey: 0.839295 0.131804 -0.523361 0.065611
+RotationKeyTime: 12.000000
+RotationKey: 0.837821 0.135658 -0.523798 0.072724
+RotationKeyTime: 13.000000
+RotationKey: 0.830188 0.132373 -0.536189 0.075943
+RotationKeyTime: 14.000000
+RotationKey: 0.807739 0.120807 -0.572098 0.075279
+RotationKeyTime: 15.000000
+RotationKey: 0.783932 0.104500 -0.608188 0.068095
+RotationKeyTime: 16.000000
+RotationKey: 0.764182 0.088635 -0.636271 0.057694
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.124995 -0.016498 -0.000265
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.850012 0.225958 -0.153260 0.450482
+RotationKeyTime: 0.000000
+RotationKey: 0.861365 0.247075 -0.246402 0.369175
+RotationKeyTime: 1.000000
+RotationKey: 0.873579 0.242400 -0.327886 0.265693
+RotationKeyTime: 2.000000
+RotationKey: 0.882222 0.230464 -0.358120 0.200803
+RotationKeyTime: 3.000000
+RotationKey: 0.887184 0.222408 -0.350918 0.200739
+RotationKeyTime: 4.000000
+RotationKey: 0.881583 0.217005 -0.350933 0.229274
+RotationKeyTime: 5.000000
+RotationKey: 0.872511 0.203578 -0.363846 0.254749
+RotationKeyTime: 6.000000
+RotationKey: 0.868615 0.180853 -0.369646 0.275975
+RotationKeyTime: 7.000000
+RotationKey: 0.867615 0.152899 -0.367527 0.297976
+RotationKeyTime: 8.000000
+RotationKey: 0.867457 0.118328 -0.364035 0.317798
+RotationKeyTime: 9.000000
+RotationKey: 0.873882 0.077203 -0.348319 0.330218
+RotationKeyTime: 10.000000
+RotationKey: 0.886603 0.040946 -0.316609 0.334690
+RotationKeyTime: 11.000000
+RotationKey: 0.892576 0.025094 -0.294982 0.340095
+RotationKeyTime: 12.000000
+RotationKey: 0.885668 0.033799 -0.295493 0.356559
+RotationKeyTime: 13.000000
+RotationKey: 0.874474 0.064570 -0.289872 0.383536
+RotationKeyTime: 14.000000
+RotationKey: 0.867420 0.112346 -0.255701 0.411798
+RotationKeyTime: 15.000000
+RotationKey: 0.861087 0.168732 -0.204018 0.434091
+RotationKeyTime: 16.000000
+RotationKey: 0.850012 0.225958 -0.153260 0.450482
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.059792 0.136702 0.016626
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.993798 0.004406 -0.106442 -0.031886
+RotationKeyTime: 0.000000
+RotationKey: 0.998907 -0.031536 0.024429 0.024360
+RotationKeyTime: 1.000000
+RotationKey: 0.987489 -0.067866 0.119574 0.077218
+RotationKeyTime: 2.000000
+RotationKey: 0.977290 -0.090993 0.156541 0.110089
+RotationKeyTime: 3.000000
+RotationKey: 0.974629 -0.096091 0.160065 0.123470
+RotationKeyTime: 4.000000
+RotationKey: 0.976126 -0.089521 0.151811 0.126956
+RotationKeyTime: 5.000000
+RotationKey: 0.979886 -0.078697 0.134148 0.125041
+RotationKeyTime: 6.000000
+RotationKey: 0.985190 -0.065359 0.103872 0.119748
+RotationKeyTime: 7.000000
+RotationKey: 0.989638 -0.051591 0.066057 0.116585
+RotationKeyTime: 8.000000
+RotationKey: 0.991890 -0.039790 0.028449 0.117311
+RotationKeyTime: 9.000000
+RotationKey: 0.992595 -0.030262 -0.004955 0.117534
+RotationKeyTime: 10.000000
+RotationKey: 0.992759 -0.022832 -0.032154 0.113462
+RotationKeyTime: 11.000000
+RotationKey: 0.993237 -0.016525 -0.051220 0.102878
+RotationKeyTime: 12.000000
+RotationKey: 0.994305 -0.009973 -0.063809 0.084776
+RotationKeyTime: 13.000000
+RotationKey: 0.995477 -0.004440 -0.073755 0.059715
+RotationKeyTime: 14.000000
+RotationKey: 0.996025 -0.000855 -0.083796 0.030199
+RotationKeyTime: 15.000000
+RotationKey: 0.995504 0.001751 -0.094692 -0.001145
+RotationKeyTime: 16.000000
+RotationKey: 0.993798 0.004406 -0.106442 -0.031886
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.023352 -0.000000 0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.967136 -0.000000 -0.000000 -0.254260
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.035625 -0.000000 -0.000001
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.802054 -0.000038 0.000027 -0.597252
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.089855 0.002270 0.047125
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.893164 0.025201 0.064131 -0.444420
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.027809 -0.002279 -0.000604
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.984252 0.000000 -0.000001 -0.176772
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.040194 -0.000000 0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.940181 0.000043 -0.000031 -0.340675
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.093084 0.001461 0.022415
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.854374 0.005423 0.000341 -0.519630
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.029967 -0.000001 0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.982563 -0.000020 0.000011 -0.185932
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.040002 0.000332 0.003382
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.905124 -0.000001 0.000003 -0.425147
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.097008 -0.000000 0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.939636 0.013183 0.058606 -0.336860
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.025415 -0.000879 -0.000000
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.998050 -0.000001 -0.000012 -0.062420
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.037633 -0.001302 0.002901
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.933080 -0.000002 0.000007 -0.359669
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.099097 0.002887 -0.023422
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.943971 0.030973 0.099072 -0.313280
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.018427 -0.010639 -0.010639
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.892756 -0.387454 0.212824 0.087013
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.021753 -0.012560 -0.012560
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.983500 -0.137966 -0.112395 -0.032568
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.035456 -0.019109 -0.023682
+PositionKeyTime: 0.000000
+RotationKeyCount: 1
+RotationKey: 0.993939 0.021739 -0.003365 0.107712
+RotationKeyTime: 0.000000
+ScaleKeyCount: 1
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.215899 0.003971 -0.006520
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.969236 -0.004498 0.241883 -0.045320
+RotationKeyTime: 0.000000
+RotationKey: 0.978405 -0.000347 0.206138 -0.015201
+RotationKeyTime: 1.000000
+RotationKey: 0.981939 0.000396 0.188894 0.010713
+RotationKeyTime: 2.000000
+RotationKey: 0.981609 0.000024 0.186966 0.038574
+RotationKeyTime: 3.000000
+RotationKey: 0.979460 0.000109 0.190691 0.065535
+RotationKeyTime: 4.000000
+RotationKey: 0.974629 0.000454 0.207403 0.084159
+RotationKeyTime: 5.000000
+RotationKey: 0.961717 0.000097 0.257882 0.092719
+RotationKeyTime: 6.000000
+RotationKey: 0.941823 -0.000083 0.322761 0.093780
+RotationKeyTime: 7.000000
+RotationKey: 0.933730 0.000647 0.345604 0.093302
+RotationKeyTime: 8.000000
+RotationKey: 0.945068 0.001985 0.314006 0.090784
+RotationKeyTime: 9.000000
+RotationKey: 0.956818 0.003015 0.278816 0.082176
+RotationKeyTime: 10.000000
+RotationKey: 0.960065 0.001916 0.270949 0.069703
+RotationKeyTime: 11.000000
+RotationKey: 0.961146 0.000273 0.269577 0.059382
+RotationKeyTime: 12.000000
+RotationKey: 0.961385 -0.000940 0.269213 0.057120
+RotationKeyTime: 13.000000
+RotationKey: 0.954943 -0.002794 0.288299 0.070424
+RotationKeyTime: 14.000000
+RotationKey: 0.947450 -0.004219 0.310627 0.076367
+RotationKeyTime: 15.000000
+RotationKey: 0.954499 -0.006202 0.296288 0.033255
+RotationKeyTime: 16.000000
+RotationKey: 0.969236 -0.004498 0.241883 -0.045319
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.255579 -0.003974 0.008271
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.895808 0.121392 0.427511 -0.005209
+RotationKeyTime: 0.000000
+RotationKey: 0.884693 0.103976 0.453298 -0.032057
+RotationKeyTime: 1.000000
+RotationKey: 0.862601 0.097007 0.489436 -0.083430
+RotationKeyTime: 2.000000
+RotationKey: 0.847613 0.099497 0.509401 -0.110289
+RotationKeyTime: 3.000000
+RotationKey: 0.843618 0.106625 0.515095 -0.107779
+RotationKeyTime: 4.000000
+RotationKey: 0.851500 0.121443 0.500807 -0.096912
+RotationKeyTime: 5.000000
+RotationKey: 0.873275 0.143710 0.457758 -0.084834
+RotationKeyTime: 6.000000
+RotationKey: 0.890612 0.174616 0.412167 -0.080233
+RotationKeyTime: 7.000000
+RotationKey: 0.883567 0.201202 0.411875 -0.095841
+RotationKeyTime: 8.000000
+RotationKey: 0.851180 0.202251 0.466968 -0.128564
+RotationKeyTime: 9.000000
+RotationKey: 0.810125 0.186654 0.532395 -0.159417
+RotationKeyTime: 10.000000
+RotationKey: 0.785057 0.180975 0.565009 -0.178043
+RotationKeyTime: 11.000000
+RotationKey: 0.787779 0.183881 0.561229 -0.174969
+RotationKeyTime: 12.000000
+RotationKey: 0.813573 0.171575 0.537899 -0.139014
+RotationKeyTime: 13.000000
+RotationKey: 0.848766 0.149283 0.499509 -0.088325
+RotationKeyTime: 14.000000
+RotationKey: 0.878418 0.141435 0.453326 -0.053606
+RotationKeyTime: 15.000000
+RotationKey: 0.893411 0.141073 0.425242 -0.032929
+RotationKeyTime: 16.000000
+RotationKey: 0.895808 0.121392 0.427511 -0.005209
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.124994 -0.016500 -0.000265
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.866474 -0.003867 0.157790 -0.473613
+RotationKeyTime: 0.000000
+RotationKey: 0.850566 -0.089162 0.014777 -0.518043
+RotationKeyTime: 1.000000
+RotationKey: 0.836805 -0.145867 -0.116782 -0.514628
+RotationKeyTime: 2.000000
+RotationKey: 0.836526 -0.189453 -0.142573 -0.493968
+RotationKeyTime: 3.000000
+RotationKey: 0.851264 -0.197208 -0.075197 -0.480421
+RotationKeyTime: 4.000000
+RotationKey: 0.875527 -0.148434 0.045636 -0.457533
+RotationKeyTime: 5.000000
+RotationKey: 0.895302 -0.033250 0.173495 -0.408935
+RotationKeyTime: 6.000000
+RotationKey: 0.885860 0.126677 0.262533 -0.360945
+RotationKeyTime: 7.000000
+RotationKey: 0.857228 0.268744 0.290858 -0.329147
+RotationKeyTime: 8.000000
+RotationKey: 0.846672 0.363408 0.261438 -0.287630
+RotationKeyTime: 9.000000
+RotationKey: 0.854785 0.414656 0.208021 -0.232659
+RotationKeyTime: 10.000000
+RotationKey: 0.868226 0.422370 0.167740 -0.199125
+RotationKeyTime: 11.000000
+RotationKey: 0.890479 0.375682 0.156135 -0.203795
+RotationKeyTime: 12.000000
+RotationKey: 0.916236 0.276618 0.174471 -0.231415
+RotationKeyTime: 13.000000
+RotationKey: 0.921937 0.166191 0.207225 -0.281906
+RotationKeyTime: 14.000000
+RotationKey: 0.900018 0.096526 0.222710 -0.362008
+RotationKeyTime: 15.000000
+RotationKey: 0.872877 0.054505 0.203699 -0.440024
+RotationKeyTime: 16.000000
+RotationKey: 0.866474 -0.003867 0.157790 -0.473613
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.059350 0.136702 0.016626
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.986452 -0.029127 -0.085355 -0.137032
+RotationKeyTime: 0.000000
+RotationKey: 0.993497 -0.022063 -0.048212 -0.100764
+RotationKeyTime: 1.000000
+RotationKey: 0.996688 -0.015926 -0.005015 -0.079589
+RotationKeyTime: 2.000000
+RotationKey: 0.996411 -0.011471 0.010568 -0.083194
+RotationKeyTime: 3.000000
+RotationKey: 0.994380 -0.009528 0.024238 -0.102619
+RotationKeyTime: 4.000000
+RotationKey: 0.991313 -0.010245 0.052982 -0.119947
+RotationKeyTime: 5.000000
+RotationKey: 0.988904 -0.013384 0.095817 -0.112734
+RotationKeyTime: 6.000000
+RotationKey: 0.986986 -0.016607 0.142305 -0.073024
+RotationKeyTime: 7.000000
+RotationKey: 0.984331 -0.017477 0.172621 -0.031450
+RotationKeyTime: 8.000000
+RotationKey: 0.983642 -0.016606 0.178957 -0.012116
+RotationKeyTime: 9.000000
+RotationKey: 0.985030 -0.015126 0.171645 -0.004957
+RotationKeyTime: 10.000000
+RotationKey: 0.986342 -0.014437 0.164011 0.004703
+RotationKeyTime: 11.000000
+RotationKey: 0.987878 -0.015120 0.154317 0.007369
+RotationKeyTime: 12.000000
+RotationKey: 0.991695 -0.017299 0.126126 -0.018301
+RotationKeyTime: 13.000000
+RotationKey: 0.994413 -0.018974 0.085613 -0.058759
+RotationKeyTime: 14.000000
+RotationKey: 0.995053 -0.021283 0.057129 -0.078435
+RotationKeyTime: 15.000000
+RotationKey: 0.995193 -0.026295 0.012035 -0.093561
+RotationKeyTime: 16.000000
+RotationKey: 0.986452 -0.029127 -0.085355 -0.137032
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: -0.000000 0.055640 -0.009881
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.972641 0.225511 0.038426 -0.040467
+RotationKeyTime: 0.000000
+RotationKey: 0.968668 0.223104 0.105247 -0.028820
+RotationKeyTime: 1.000000
+RotationKey: 0.962445 0.222688 0.153388 -0.024099
+RotationKeyTime: 2.000000
+RotationKey: 0.958482 0.224173 0.175627 -0.014646
+RotationKeyTime: 3.000000
+RotationKey: 0.959102 0.222863 0.174448 -0.004857
+RotationKeyTime: 4.000000
+RotationKey: 0.963514 0.224699 0.145395 -0.003445
+RotationKeyTime: 5.000000
+RotationKey: 0.967032 0.233412 0.101824 0.000123
+RotationKeyTime: 6.000000
+RotationKey: 0.969397 0.238136 0.058361 0.012435
+RotationKeyTime: 7.000000
+RotationKey: 0.972821 0.230590 0.010096 0.018583
+RotationKeyTime: 8.000000
+RotationKey: 0.974589 0.219017 -0.044216 0.015873
+RotationKeyTime: 9.000000
+RotationKey: 0.973072 0.211260 -0.090168 0.019253
+RotationKeyTime: 10.000000
+RotationKey: 0.971060 0.206788 -0.116167 0.028054
+RotationKeyTime: 11.000000
+RotationKey: 0.971210 0.203417 -0.120873 0.027604
+RotationKeyTime: 12.000000
+RotationKey: 0.973908 0.199822 -0.106581 0.014628
+RotationKeyTime: 13.000000
+RotationKey: 0.977622 0.197613 -0.072048 -0.003569
+RotationKeyTime: 14.000000
+RotationKey: 0.978969 0.201198 -0.026753 -0.020591
+RotationKeyTime: 15.000000
+RotationKey: 0.976403 0.213054 0.011851 -0.033243
+RotationKeyTime: 16.000000
+RotationKey: 0.972641 0.225511 0.038426 -0.040467
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.000244 0.158623 0.016758
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.995649 0.092032 -0.012261 -0.007921
+RotationKeyTime: 0.000000
+RotationKey: 0.997793 0.062576 0.020325 0.008964
+RotationKeyTime: 1.000000
+RotationKey: 0.998311 0.031080 0.044309 0.021120
+RotationKeyTime: 2.000000
+RotationKey: 0.998093 0.015661 0.054713 0.023909
+RotationKeyTime: 3.000000
+RotationKey: 0.998296 0.018648 0.052544 0.017218
+RotationKeyTime: 4.000000
+RotationKey: 0.998677 0.033276 0.038186 0.008890
+RotationKeyTime: 5.000000
+RotationKey: 0.998381 0.054218 0.016897 0.003256
+RotationKeyTime: 6.000000
+RotationKey: 0.997270 0.073700 -0.004225 0.001693
+RotationKeyTime: 7.000000
+RotationKey: 0.996342 0.082054 -0.023696 0.002853
+RotationKeyTime: 8.000000
+RotationKey: 0.996257 0.073694 -0.044968 -0.004346
+RotationKeyTime: 9.000000
+RotationKey: 0.996048 0.058238 -0.064150 -0.019542
+RotationKeyTime: 10.000000
+RotationKey: 0.995212 0.053096 -0.076179 -0.030493
+RotationKeyTime: 11.000000
+RotationKey: 0.994132 0.059344 -0.083320 -0.035166
+RotationKeyTime: 12.000000
+RotationKey: 0.993377 0.068991 -0.084620 -0.035798
+RotationKeyTime: 13.000000
+RotationKey: 0.993783 0.078519 -0.072568 -0.031061
+RotationKeyTime: 14.000000
+RotationKey: 0.994802 0.086456 -0.049284 -0.021589
+RotationKeyTime: 15.000000
+RotationKey: 0.995452 0.090546 -0.026960 -0.012257
+RotationKeyTime: 16.000000
+RotationKey: 0.995649 0.092032 -0.012261 -0.007921
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.000217 0.140998 0.014896
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.999684 -0.018029 -0.016365 -0.006188
+RotationKeyTime: 0.000000
+RotationKey: 0.999091 -0.019953 -0.037165 -0.006080
+RotationKeyTime: 1.000000
+RotationKey: 0.998608 -0.020105 -0.048724 -0.002067
+RotationKeyTime: 2.000000
+RotationKey: 0.998467 -0.021609 -0.050943 0.001339
+RotationKeyTime: 3.000000
+RotationKey: 0.998643 -0.024079 -0.046107 0.002400
+RotationKeyTime: 4.000000
+RotationKey: 0.999103 -0.024508 -0.034494 0.001685
+RotationKeyTime: 5.000000
+RotationKey: 0.999574 -0.023456 -0.017383 0.000074
+RotationKeyTime: 6.000000
+RotationKey: 0.999748 -0.022370 0.001836 -0.000906
+RotationKeyTime: 7.000000
+RotationKey: 0.999605 -0.019736 0.019989 0.000648
+RotationKeyTime: 8.000000
+RotationKey: 0.999243 -0.014237 0.035913 0.004663
+RotationKeyTime: 9.000000
+RotationKey: 0.998814 -0.010055 0.047120 0.007085
+RotationKeyTime: 10.000000
+RotationKey: 0.998619 -0.012065 0.050944 0.004431
+RotationKeyTime: 11.000000
+RotationKey: 0.998681 -0.016818 0.048503 -0.001038
+RotationKeyTime: 12.000000
+RotationKey: 0.998886 -0.018608 0.043095 -0.004851
+RotationKeyTime: 13.000000
+RotationKey: 0.999259 -0.018402 0.033368 -0.005370
+RotationKeyTime: 14.000000
+RotationKey: 0.999657 -0.019951 0.016267 -0.004861
+RotationKeyTime: 15.000000
+RotationKey: 0.999759 -0.021105 -0.002603 -0.005466
+RotationKeyTime: 16.000000
+RotationKey: 0.999684 -0.018029 -0.016365 -0.006188
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.000190 0.123373 0.013034
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.999691 -0.018185 -0.016039 -0.005398
+RotationKeyTime: 0.000000
+RotationKey: 0.999080 -0.021097 -0.037078 -0.004303
+RotationKeyTime: 1.000000
+RotationKey: 0.998541 -0.022667 -0.049021 0.000063
+RotationKeyTime: 2.000000
+RotationKey: 0.998382 -0.023783 -0.051547 0.003397
+RotationKeyTime: 3.000000
+RotationKey: 0.998587 -0.024764 -0.046820 0.004240
+RotationKeyTime: 4.000000
+RotationKey: 0.999064 -0.025063 -0.035115 0.003121
+RotationKeyTime: 5.000000
+RotationKey: 0.999537 -0.024617 -0.017850 0.000820
+RotationKeyTime: 6.000000
+RotationKey: 0.999718 -0.023656 0.001529 -0.001055
+RotationKeyTime: 7.000000
+RotationKey: 0.999587 -0.020788 0.019838 -0.000255
+RotationKeyTime: 8.000000
+RotationKey: 0.999242 -0.014936 0.035801 0.003393
+RotationKeyTime: 9.000000
+RotationKey: 0.998821 -0.010596 0.047019 0.005744
+RotationKeyTime: 10.000000
+RotationKey: 0.998618 -0.012205 0.051027 0.003040
+RotationKeyTime: 11.000000
+RotationKey: 0.998664 -0.016729 0.048816 -0.002516
+RotationKeyTime: 12.000000
+RotationKey: 0.998837 -0.019834 0.043496 -0.006328
+RotationKeyTime: 13.000000
+RotationKey: 0.999176 -0.021523 0.033784 -0.006595
+RotationKeyTime: 14.000000
+RotationKey: 0.999591 -0.022520 0.016751 -0.005443
+RotationKeyTime: 15.000000
+RotationKey: 0.999753 -0.021505 -0.002102 -0.005215
+RotationKeyTime: 16.000000
+RotationKey: 0.999691 -0.018185 -0.016039 -0.005398
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 1
+PositionKey: 0.000173 0.105748 0.011172
+PositionKeyTime: 0.000000
+RotationKeyCount: 18
+RotationKey: 0.967671 -0.242744 -0.053313 -0.042976
+RotationKeyTime: 0.000000
+RotationKey: 0.962717 -0.226363 -0.129677 -0.071548
+RotationKeyTime: 1.000000
+RotationKey: 0.961759 -0.194191 -0.175740 -0.080151
+RotationKeyTime: 2.000000
+RotationKey: 0.964122 -0.173263 -0.186976 -0.074092
+RotationKeyTime: 3.000000
+RotationKey: 0.966146 -0.181527 -0.170918 -0.066304
+RotationKeyTime: 4.000000
+RotationKey: 0.966580 -0.211835 -0.129302 -0.064261
+RotationKeyTime: 5.000000
+RotationKey: 0.966591 -0.238831 -0.066316 -0.065294
+RotationKeyTime: 6.000000
+RotationKey: 0.970192 -0.236913 0.005163 -0.050729
+RotationKeyTime: 7.000000
+RotationKey: 0.975225 -0.209229 0.071267 -0.008961
+RotationKeyTime: 8.000000
+RotationKey: 0.975185 -0.177182 0.126485 0.040270
+RotationKeyTime: 9.000000
+RotationKey: 0.972608 -0.150462 0.164987 0.064609
+RotationKeyTime: 10.000000
+RotationKey: 0.972106 -0.137701 0.181459 0.055867
+RotationKeyTime: 11.000000
+RotationKey: 0.972588 -0.147433 0.176820 0.032725
+RotationKeyTime: 12.000000
+RotationKey: 0.972272 -0.170992 0.158452 0.018498
+RotationKeyTime: 13.000000
+RotationKey: 0.972393 -0.194788 0.126344 0.023402
+RotationKeyTime: 14.000000
+RotationKey: 0.973916 -0.212446 0.074461 0.028454
+RotationKeyTime: 15.000000
+RotationKey: 0.974059 -0.226087 0.008302 0.004948
+RotationKeyTime: 16.000000
+RotationKey: 0.967671 -0.242743 -0.053313 -0.042976
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[Animation]
+PositionKeyCount: 18
+PositionKey: 0.000001 0.856047 0.000000
+PositionKeyTime: 0.000000
+PositionKey: 0.003314 0.871988 0.004423
+PositionKeyTime: 1.000000
+PositionKey: 0.003483 0.885929 0.012913
+PositionKeyTime: 2.000000
+PositionKey: 0.004443 0.895427 0.025871
+PositionKeyTime: 3.000000
+PositionKey: 0.007745 0.893347 0.043382
+PositionKeyTime: 4.000000
+PositionKey: 0.012590 0.879314 0.062412
+PositionKeyTime: 5.000000
+PositionKey: 0.018520 0.863827 0.078399
+PositionKeyTime: 6.000000
+PositionKey: 0.023206 0.858327 0.087705
+PositionKeyTime: 7.000000
+PositionKey: 0.024849 0.870481 0.089148
+PositionKeyTime: 8.000000
+PositionKey: 0.026096 0.897418 0.083522
+PositionKeyTime: 9.000000
+PositionKey: 0.029300 0.923143 0.073152
+PositionKeyTime: 10.000000
+PositionKey: 0.032798 0.932934 0.060814
+PositionKeyTime: 11.000000
+PositionKey: 0.033041 0.924233 0.049010
+PositionKeyTime: 12.000000
+PositionKey: 0.027925 0.901117 0.037859
+PositionKeyTime: 13.000000
+PositionKey: 0.019209 0.870665 0.026038
+PositionKeyTime: 14.000000
+PositionKey: 0.010385 0.845787 0.013894
+PositionKeyTime: 15.000000
+PositionKey: 0.003728 0.840268 0.004326
+PositionKeyTime: 16.000000
+PositionKey: 0.000050 0.856047 0.000000
+PositionKeyTime: 17.000000
+RotationKeyCount: 18
+RotationKey: 0.979987 -0.169071 0.096670 0.041172
+RotationKeyTime: 0.000000
+RotationKey: 0.979183 -0.165653 0.103272 0.055626
+RotationKeyTime: 1.000000
+RotationKey: 0.978225 -0.177736 0.092462 0.054188
+RotationKeyTime: 2.000000
+RotationKey: 0.978762 -0.185645 0.074906 0.044170
+RotationKeyTime: 3.000000
+RotationKey: 0.982691 -0.172520 0.055796 0.037989
+RotationKeyTime: 4.000000
+RotationKey: 0.987671 -0.147220 0.035941 0.039257
+RotationKeyTime: 5.000000
+RotationKey: 0.990171 -0.132053 0.009599 0.045078
+RotationKeyTime: 6.000000
+RotationKey: 0.988916 -0.141055 -0.025376 0.038799
+RotationKeyTime: 7.000000
+RotationKey: 0.983765 -0.169232 -0.059048 0.008965
+RotationKeyTime: 8.000000
+RotationKey: 0.976248 -0.201269 -0.076124 -0.025207
+RotationKeyTime: 9.000000
+RotationKey: 0.971213 -0.224649 -0.069773 -0.037548
+RotationKeyTime: 10.000000
+RotationKey: 0.972325 -0.226965 -0.048245 -0.027254
+RotationKeyTime: 11.000000
+RotationKey: 0.978993 -0.202067 -0.025251 -0.010241
+RotationKeyTime: 12.000000
+RotationKey: 0.986129 -0.165562 -0.011644 0.002030
+RotationKeyTime: 13.000000
+RotationKey: 0.989738 -0.142705 -0.005514 0.004812
+RotationKeyTime: 14.000000
+RotationKey: 0.989760 -0.142224 0.011192 0.004816
+RotationKeyTime: 15.000000
+RotationKey: 0.986783 -0.153757 0.048057 0.017563
+RotationKeyTime: 16.000000
+RotationKey: 0.979987 -0.169071 0.096670 0.041172
+RotationKeyTime: 17.000000
+ScaleKeyCount: 18
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 0.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 1.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 2.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 3.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 4.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 5.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 6.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 7.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 8.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 9.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 10.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 11.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 12.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 13.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 14.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 15.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 16.000000
+ScaleKeys: 1.000000 1.000000 1.000000
+ScaleKeyTime: 17.000000
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]
+[EMPTY]

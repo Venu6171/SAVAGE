@@ -1,0 +1,8 @@
+MaterialCount: 1
+Ambient: 0.000000 0.000000 0.000000
+Diffuse: 0.800000 0.800000 0.800000
+Specular: 0.500000 0.500000 0.500000
+Power: 5.000000
+DiffuseMapName: Pumpkin_Idle_Diffuse_0.png
+SpecularMapName: None
+NormalMapName: Pumpkin_Idle_Normal_0.png
